@@ -1,0 +1,15 @@
+.container {
+    display: grid;
+    grid-template-columns: 2fr 1fr 3fr;
+}
+
+.box {
+    display: block;
+    height: 120px;
+    background: purple;
+    margin: 10px;
+}
+
+h1{
+    color: whitesmoke;
+}
